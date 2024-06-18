@@ -1,0 +1,50 @@
+SM_SYMBOL,SM_NAME,SM_INDUSTRY,SM_CITY,SM_INVESTMENT_TYPE,SM_EMPLOYEE_COUNT
+ADANIENT,"Adani Enterprises","Metals & Mining",Ahmedabad,Public,18000
+ADANIPORTS,"Adani Ports & SEZ",Services,Ahmedabad,Public,4083
+APOLLOHOSP,"Apollo Hospitals",Healthcare,Chennai,Public,62939
+ASIANPAINT,"Asian Paints","Consumer Durables",Mumbai,Public,7600
+AXISBANK,"Axis Bank","Financial Services",Mumbai,Public,86000
+BAJAJ-AUTO,"Bajaj Auto",Automobile,Pune,Public,11717
+BAJFINANCE,"Bajaj Finance","Financial Services",Pune,Public,36000
+BHARTIARTL,"Bharti Airtel",Telecommunication,"New Delhi",Public,20000
+BPCL,"Bharat Petroleum","Oil & Gas",Mumbai,Public,12500
+BRITANNIA,"Britannia Industries",FMCG,Bengaluru,Public,5000
+CIPLA,Cipla,Healthcare,Mumbai,Public,22036
+COALINDIA,"Coal India","Oil & Gas",Kolkata,Public,248550
+DIVISLAB,"Divis Laboratories",Healthcare,Hyderabad,Public,16500
+DRREDDY,"Dr. Reddys Laboratories",Healthcare,Hyderabad,Public,21650
+EICHERMOT,"Eicher Motors",Automobile,Gurugram,Public,13385
+GRASIM,"Grasim Industries","Construction Materials",Mumbai,Public,24000
+HCLTECH,"HCL Technologies","Information Technology",Noida,Public,223438
+HDFCBANK,"HDFC Bank","Financial Services",Mumbai,Public,141579
+HDFCLIFE,"HDFC Life Insurance","Financial Services",Mumbai,Public,20000
+HEROMOTOCO,"Hero MotoCorp",Automobile,"New Delhi",Public,8599
+HINDALCO,"Hindalco Industries","Metals & Mining",Mumbai,Public,36000
+HINDUNILVR,"Hindustan Unilever",FMCG,Mumbai,Public,21000
+ICICIBANK,"ICICI Bank","Financial Services",Mumbai,Public,131232
+INDUSINDBK,"IndusInd Bank","Financial Services",Mumbai,Public,30000
+INFY,Infosys,"Information Technology",Bengaluru,Public,343000
+ITC,"ITC Limited",FMCG,Kolkata,Public,28000
+JSWSTEEL,"JSW Steel","Metals & Mining",Mumbai,Public,14369
+KOTAKBANK,"Kotak Mahindra Bank","Financial Services",Mumbai,Public,71000
+LT,"Larsen & Toubro",Construction,Mumbai,Public,337994
+LTIM,LTIMindtree,"Information Technology",Bengaluru,Public,82738
+M&M,"Mahindra & Mahindra",Automobile,Mumbai,Public,250000
+MARUTI,"Maruti Suzuki",Automobile,"New Delhi",Public,35845
+NESTLEIND,"Nestle India",FMCG,Gurugram,Public,8000
+NTPC,NTPC,Power,"New Delhi",Public,19918
+ONGC,"Oil and Natural Gas Corporation","Oil & Gas","New Delhi",Public,30000
+POWERGRID,"Power Grid Corporation",Power,"New Delhi",Public,8987
+RELIANCE,"Reliance Industries","Oil & Gas",Mumbai,Public,195618
+SBILIFE,"SBI Life Insurance","Financial Services",Mumbai,Public,15000
+SBIN,"State Bank of India","Financial Services",Mumbai,Public,245652
+SHRIRAMFIN,"Shriram Finance","Financial Services",Chennai,Public,57000
+SUNPHARMA,"Sun Pharmaceutical",Healthcare,Mumbai,Public,36000
+TATACONSUM,"Tata Consumer Products",FMCG,Mumbai,Public,3000
+TATAMOTORS,"Tata Motors",Automobile,Mumbai,Public,81090
+TATASTEEL,"Tata Steel","Metals & Mining",Mumbai,Public,65000
+TCS,"Tata Consultancy Services","Information Technology",Mumbai,Public,606000
+TECHM,"Tech Mahindra","Information Technology",Pune,Public,148688
+TITAN,"Titan Company","Consumer Durables",Bengaluru,Public,7500
+ULTRACEMCO,"UltraTech Cement","Construction Materials",Mumbai,Public,22000
+WIPRO,Wipro,"Information Technology",Bengaluru,Public,256921
